@@ -27,6 +27,7 @@ Repositório dedicado ao acompanhamento prático, anotações conceituais, exerc
 ├── notes/                  # Resumos teóricos, insights e anotações conceituais
 ├── .gitignore              # Arquivos e diretórios ignorados pelo Git
 ├── requirements.txt        # Especificação das dependências e versões
+├── LICENSE                 # Licença de uso
 └── README.md               # Documentação principal do repositório
 ```
 
@@ -37,7 +38,7 @@ Repositório dedicado ao acompanhamento prático, anotações conceituais, exerc
   - `numpy`: Vetorização e operações numéricas de alta performance.
   - `pandas`: Estruturas tabulares (Series e DataFrames) e manipulação analítica.
   - `matplotlib`: Criação e customização detalhada de gráficos.
-  - `seaborn`: Visualização estatísticas e paletas visuais integradas ao **Pandas**.
+  - `scikit-learn`: Pré-processamento de atributos, pipelines e algoritmos preditivos.
 - **Ambiente de Trabalho:** Jupyter Lab / VS Code.
 
 
@@ -78,10 +79,18 @@ jupyter lab
 
 ## 📋Checklist de Progresso do Livro
 
-- [ ] Capítulo 01 - Bla
-
-
-
+- [ ] Capítulo 01 - Conceitos básicos de dados
+- [ ] Capítulo 02 - Estruturas de dados do Python
+- [ ] Capítulo 03 - Bibliotecas de ciência de dados do Python
+- [ ] Capítulo 04 - Acessando dados a partir de arquivos e de APIs
+- [ ] Capítulo 05 - Trabalhando com bancos de dados
+- [ ] Capítulo 06 - Agregando dados
+- [ ] Capítulo 07 - Combinando conjutos de dados
+- [ ] Capítulo 08 - Criando visualizações
+- [ ] Capítulo 09 - Analisando dados geográficos
+- [ ] Capítulo 10 - Analisando dados de séries temporais
+- [ ] Capítulo 11 - Obtendo insights a partir de dados
+- [ ] Capítulo 12 - Aprendizado de máquina para análise de dados
 
 ## 📚 Referência Bibliográfica
 
