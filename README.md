@@ -90,4 +90,4 @@ jupyter lab
 - **Editora:** Novatec Editora (2023).
 ## 📄 Licença
 
-Este projeto é desenvolvido para fins estritamente acadêmicos e de estudo pessoal. O código autoral deste repositório está sob licença **MIT**.
+Este projeto é desenvolvido para fins estritamente acadêmicos e de estudo pessoal. O código autoral deste repositório está sob licença [MIT](LICENSE).
