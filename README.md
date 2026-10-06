@@ -80,8 +80,8 @@ jupyter lab
 ## 📋Checklist de Progresso do Livro
 
 
-- [ ] [Introdução](notebooks/cap00_introducao.ipynb)
-- [ ] Capítulo 01 - Conceitos básicos de dados
+- [X] [Introdução](notebooks/cap00_introducao.ipynb)
+- [X] [Capítulo 01 - Conceitos básicos de dados](notebooks/cap01_conceitos_basicos.ipynb)
 - [ ] Capítulo 02 - Estruturas de dados do Python
 - [ ] Capítulo 03 - Bibliotecas de ciência de dados do Python
 - [ ] Capítulo 04 - Acessando dados a partir de arquivos e de APIs
